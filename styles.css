@@ -51,6 +51,7 @@ body {
     font-size: 1.25rem;
     color: rgb(50, 48, 49);
     border: none;
+    font-weight: bold;
 }
 
 @media screen(max-width: 500px) {
